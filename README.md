@@ -1,4 +1,4 @@
-# Large-scale ligand-based virtual screening for potential SARS-Cov-2 inhibitors using a deep neural network
+# Large-scale ligand-based virtual screening for SARS-Cov-2 inhibitors using a deep neural network
 
 Markus Hofmarcher, Andreas Mayr, Elisabeth Rumetshofer, Peter Ruch, Philipp Renz, Johannes Schimunek, Philipp Seidl, Andreu Vall, Michael Widrich, Sepp Hochreiter, Guenter Klambauer
 
