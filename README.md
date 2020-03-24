@@ -2,7 +2,7 @@
 
 Markus Hofmarcher, Andreas Mayr, Elisabeth Rumetshofer, Peter Ruch, Philipp Renz, Johannes Schimunek, Philipp Seidl, Andreu Vall, Michael Widrich, Sepp Hochreiter, Guenter Klambauer
 
-Institute for Machine Learning & LIT AI Lab, Johannes Kepler University Linz, Austria
+ELLIS Unit @ LIT AI Lab & Institute for Machine Learning, Johannes Kepler University Linz, Austria
 
 ------------------------
 
