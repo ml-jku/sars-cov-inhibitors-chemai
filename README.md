@@ -12,7 +12,7 @@ Due to the current severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) 
 [Technical report](SARS_cov_screen.pdf)
 
 
-The list is available in csv format for automated processing and in Excel format for manual inspection.
+The list is available in [csv format](sars-cov-library.csv) for automated processing and in [Excel format](sars-cov-library.xlsx) for manual inspection.
 
 Here are some examples of the top-ranked molecules:
 
