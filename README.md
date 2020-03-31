@@ -12,7 +12,12 @@ Due to the current severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) 
 [Technical report](SARS_cov_screen.pdf)
 
 ### Training data set for machine learning or other methods: 
-[Data set](http://www.bioinf.jku.at/people/klambauer/sars_cov_dataset.zip)
+[Data set](http://www.bioinf.jku.at/people/klambauer/sars_cov_dataset.zip) If you use this data set, please do not forget to cite this work!
+
+Additional data sets for multi-task learning:
+* [LSC data set](http://bioinf.at/research/lsc/)
+* [Tox21 data set](http://bioinf.jku.at/research/DeepTox/tox21.html)
+
 
 ### Predictions and ranking for DrugBank compounds:
 Available on reasonable request for scientific purposes. Send request to: klambauer@ml.jku.at
