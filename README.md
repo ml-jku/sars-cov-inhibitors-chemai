@@ -8,16 +8,16 @@ ELLIS Unit @ LIT AI Lab & Institute for Machine Learning, Johannes Kepler Univer
 
 Due to the current severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic, there is an urgent need for novel therapies and drugs. We conducted a large-scale virtual screening for small molecules that are potential CoV-2 inhibitors. To this end, we utilized *ChemAI*, a deep neural network trained on more than 220M data points across 3.6M molecules from three public drug-discovery databases. With ChemAI, **we screened and ranked one billion molecules from the ZINC database** for favourable effects against CoV-2. We then reduced the result to the 30,000 top-ranked compounds, which are readily accessible and purchasable via the ZINC database.
 
-## Technical report:
+### Technical report:
 [Technical report](SARS_cov_screen.pdf)
 
-## Training data set for machine learning or other methods: 
+### Training data set for machine learning or other methods: 
 [Data set](http://www.bioinf.jku.at/people/klambauer/sars_cov_dataset.zip)
 
-## Predictions and ranking for DrugBank compounds:
+### Predictions and ranking for DrugBank compounds:
 Available on reasonable request for scientific purposes. Send request to: klambauer@ml.jku.at
 
-## List of 30,000 ranked compounds from ZINC
+### List of 30,000 ranked compounds from ZINC
 The list is available in [csv format](sars-cov-library.csv) for automated processing and in [Excel format](sars-cov-library.xlsx) for manual inspection.
 
 Here are some examples of the top-ranked molecules:
