@@ -12,7 +12,7 @@ Due to the current severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) 
 [Technical report](SARS_cov_screen.pdf)
 
 ### Training data set for machine learning or other methods: 
-[Data set](http://www.bioinf.jku.at/people/klambauer/sars_cov_dataset.zip) If you use this data set, please do not forget to cite this work!
+[Data set](http://www.bioinf.jku.at/people/klambauer/sars_cov_dataset.zip) (if you use this data set, please do not forget to cite this work!)
 
 Additional data sets for multi-task learning:
 * [LSC data set](http://bioinf.at/research/lsc/)
