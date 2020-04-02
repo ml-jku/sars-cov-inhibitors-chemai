@@ -39,3 +39,9 @@ Here are some examples of the top-ranked molecules:
 | [ZINC000001448699](https://zinc.docking.org/substances/ZINC000001448699/) | [ZINC000016940508](https://zinc.docking.org/substances/ZINC000016940508/) | [ZINC000005486767](https://zinc.docking.org/substances/ZINC000005486767/) | [ZINC000005527649](https://zinc.docking.org/substances/ZINC000005527649/) |
 | ![ZINC000755497029](assets/ZINC000755497029.svg?sanitize=true) | ![ZINC000746495682](assets/ZINC000746495682.svg?sanitize=true) | ![ZINC000005719506](assets/ZINC000005719506.svg?sanitize=true) | ![ZINC000002149503](assets/ZINC000002149503.svg?sanitize=true) |
 | [ZINC000755497029](https://zinc.docking.org/substances/ZINC000755497029/) | [ZINC000746495682](https://zinc.docking.org/substances/ZINC000746495682/) | [ZINC000005719506](https://zinc.docking.org/substances/ZINC000005719506/) | [ZINC000002149503](https://zinc.docking.org/substances/ZINC000002149503/) |
+
+
+### Collaborators
+ * Gerhard Ecker, University Vienna
+ * Fabian Theis, HelmholtzZentrum München
+ * Florian Stigler, Medical University Graz
