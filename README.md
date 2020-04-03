@@ -8,8 +8,8 @@ ELLIS Unit @ LIT AI Lab & Institute for Machine Learning, Johannes Kepler Univer
 
 Due to the current severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic, there is an urgent need for novel therapies and drugs. We conducted a large-scale virtual screening for small molecules that are potential CoV-2 inhibitors. To this end, we utilized *ChemAI*, a deep neural network trained on more than 220M data points across 3.6M molecules from three public drug-discovery databases. With ChemAI, **we screened and ranked one billion molecules from the ZINC database** for favourable effects against CoV-2. We then reduced the result to the 30,000 top-ranked compounds, which are readily accessible and purchasable via the ZINC database.
 
-### Technical report:
-[Technical report (arxiv)](https://arxiv.org/abs/2004.00979)
+### Technical report: 
+[Abstract+PDF (arxiv)](https://arxiv.org/abs/2004.00979)
 
 ### Training data set for machine learning or other methods: 
 [Data set](http://www.bioinf.jku.at/people/klambauer/sars_cov_dataset.zip) (if you use this data set, please do not forget to cite this work!)
