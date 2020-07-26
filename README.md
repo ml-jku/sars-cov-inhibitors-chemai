@@ -10,6 +10,7 @@ Due to the current severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) 
 
 ### Technical report: 
 [Abstract+PDF (arxiv)](https://arxiv.org/abs/2004.00979)
+[Abstract+PDF (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3561442)
 
 ### Training data set for machine learning or other methods: 
 [Data set](http://www.bioinf.jku.at/people/klambauer/sars_cov_dataset.zip) (if you use this data set, please do not forget to cite this work!)
